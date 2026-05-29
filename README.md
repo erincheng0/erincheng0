@@ -26,4 +26,4 @@ I enjoy turning messy data into reliable pipelines and analytics that support be
 ## Get in touch
 
 - 📫 Email: `erincheng24@gmail.edu`  
-- 🔗 LinkedIn: `(https://www.linkedin.com/in/erincheng0/)`  
+- 🔗 LinkedIn: `https://www.linkedin.com/in/erincheng0/`  
